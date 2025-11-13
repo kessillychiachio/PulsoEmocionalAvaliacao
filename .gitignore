@@ -1,0 +1,8 @@
+
+.DS_Store
+/node_modules
+.env
+.env.*
+*.enc
+.vscode/
+__pycache__/
